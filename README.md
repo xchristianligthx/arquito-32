@@ -1,1 +1,1 @@
-# Plantilla del proyecto 26
+arco32
